@@ -30,7 +30,7 @@ https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/
 https://github.com/ncbi/datasets
 
 
-### **Step 2: Download the metadata of all the available genomes of Fusarium as an example**
+### **Step 2: Download the metadata of all the available genomes of Fusarium for example**
 
 
 The following command will download the entire metadata:
