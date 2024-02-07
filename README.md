@@ -1,4 +1,4 @@
-# **How to download the metadata of all publicly available genome sequences of an organism?** <br />
+# **How to automatically download the metadata of all publicly available genome sequences of an organism?** <br />
 
 
 ### **Asad Prodhan PhD** 
